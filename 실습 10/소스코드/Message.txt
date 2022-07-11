@@ -1,0 +1,5 @@
+Test message of 2022:05:11
+The grand campaign will begin 2022:06:01 06:30 AM,
+  at Yeungnam Univ. Gyeongsan, Gyeongbuk.
+The second line of message.
+The third line of message.
